@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Tourenplaner",
+    "slug": "tourenplaner-expo-go",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "tourenplaner",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "jsEngine": "hermes",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tourenplaner.expogo"
+    },
+    "android": {
+      "package": "com.tourenplaner.expogo",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
