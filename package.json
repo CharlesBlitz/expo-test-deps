@@ -13,38 +13,35 @@
     "lint": "expo lint"
   },
   "dependencies": {
-    "@expo/vector-icons": "^14.0.0", 
-    "@react-native-async-storage/async-storage": "^2.2.0",
-    "@react-native-picker/picker": "^2.12.0",
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "@react-native-picker/picker": "2.11.1",
     "expo": "~53.0.0",
-    "expo-constants": "~17.2.0",
-    "expo-file-system": "~18.2.0",
-    "expo-font": "~13.3.0",
-    "expo-linear-gradient": "~14.2.0",
-    "expo-linking": "~7.2.0",
-    "expo-router": "~4.1.0",
-    "expo-screen-orientation": "~8.2.0",
-    "expo-sharing": "~13.2.0",
-    "expo-splash-screen": "~0.31.0",
-    "expo-status-bar": "~2.3.0",
-    "expo-system-ui": "~5.1.0",
-    "lucide-react-native": "^0.475.0",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "react-native": "0.76.0",
-    "react-native-gesture-handler": "~2.25.0",
-    "react-native-reanimated": "~3.18.0",
+    "expo-constants": "~17.1.7",
+    "expo-file-system": "~18.1.11",
+    "expo-font": "~13.3.2",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-linking": "~7.1.7",
+    "expo-router": "~5.1.4",
+    "expo-screen-orientation": "~8.1.7",
+    "expo-sharing": "~13.1.5",
+    "expo-splash-screen": "~0.30.10",
+    "expo-status-bar": "~2.2.3",
+    "expo-system-ui": "~5.0.10",
+    "lucide-react-native": "^0.525.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "0.79.5",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-reanimated": "~3.17.4",
     "react-native-safe-area-context": "5.4.0",
-    "react-native-screens": "~4.11.0",
-    "react-native-svg": "15.12.0",
-    "react-native-web": "^0.21.0"
+    "react-native-screens": "~4.11.1",
+    "react-native-svg": "15.11.2",
+    "react-native-web": "^0.20.0"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0",
-    "@types/react": "~19.0.15",
-    "typescript": "~5.9.0"
-  },
-  "resolutions": {
-    "@expo/vector-icons": "^14.0.0"
+    "typescript": "~5.8.3",
+    "@types/react": "~19.0.10"
   }
 }
